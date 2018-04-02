@@ -1,0 +1,4 @@
+D:\csharp_ws\WindowsFormsApplication2\MyLog\bin\Debug\MyLog.dll
+D:\csharp_ws\WindowsFormsApplication2\MyLog\bin\Debug\MyLog.pdb
+D:\csharp_ws\WindowsFormsApplication2\MyLog\obj\Debug\MyLog.dll
+D:\csharp_ws\WindowsFormsApplication2\MyLog\obj\Debug\MyLog.pdb

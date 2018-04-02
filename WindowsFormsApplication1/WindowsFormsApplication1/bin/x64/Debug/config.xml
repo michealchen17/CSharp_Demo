@@ -1,0 +1,5 @@
+<XmlConfig>
+  <serialport>
+    <port>COM8</port>
+  </serialport>
+</XmlConfig>

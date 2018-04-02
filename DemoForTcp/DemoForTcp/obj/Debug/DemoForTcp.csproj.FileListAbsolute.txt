@@ -1,0 +1,11 @@
+D:\csharp_ws\DemoForTcp\DemoForTcp\bin\Debug\DemoForTcp.exe.config
+D:\csharp_ws\DemoForTcp\DemoForTcp\bin\Debug\DemoForTcp.exe
+D:\csharp_ws\DemoForTcp\DemoForTcp\bin\Debug\DemoForTcp.pdb
+D:\csharp_ws\DemoForTcp\DemoForTcp\bin\Debug\MyTcp.dll
+D:\csharp_ws\DemoForTcp\DemoForTcp\bin\Debug\MyTcp.pdb
+D:\csharp_ws\DemoForTcp\DemoForTcp\obj\Debug\DemoForTcp.csprojResolveAssemblyReference.cache
+D:\csharp_ws\DemoForTcp\DemoForTcp\obj\Debug\DemoForTcp.Form1.resources
+D:\csharp_ws\DemoForTcp\DemoForTcp\obj\Debug\DemoForTcp.Properties.Resources.resources
+D:\csharp_ws\DemoForTcp\DemoForTcp\obj\Debug\DemoForTcp.csproj.GenerateResource.Cache
+D:\csharp_ws\DemoForTcp\DemoForTcp\obj\Debug\DemoForTcp.exe
+D:\csharp_ws\DemoForTcp\DemoForTcp\obj\Debug\DemoForTcp.pdb

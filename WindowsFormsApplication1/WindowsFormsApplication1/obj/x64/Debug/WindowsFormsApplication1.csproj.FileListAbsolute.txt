@@ -1,0 +1,11 @@
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe.config
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.exe
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Debug\WindowsFormsApplication1.pdb
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form1.resources
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form_LightSetting.resources
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form_MainPage.resources
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Form_ServerSetting.resources
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.exe
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\obj\x64\Debug\WindowsFormsApplication1.pdb

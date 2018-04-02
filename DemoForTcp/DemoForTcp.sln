@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoForTcp", "DemoForTcp\DemoForTcp.csproj", "{D066F366-A919-4441-8474-492AAE81B5C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTcp", "MyTcp\MyTcp.csproj", "{5A8634AA-B0EA-4F48-A636-006DF626A8AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D066F366-A919-4441-8474-492AAE81B5C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D066F366-A919-4441-8474-492AAE81B5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D066F366-A919-4441-8474-492AAE81B5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D066F366-A919-4441-8474-492AAE81B5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A8634AA-B0EA-4F48-A636-006DF626A8AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8634AA-B0EA-4F48-A636-006DF626A8AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8634AA-B0EA-4F48-A636-006DF626A8AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8634AA-B0EA-4F48-A636-006DF626A8AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\bin\Debug\FlexDetectProj.exe.config
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\bin\Debug\FlexDetectProj.exe
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\bin\Debug\FlexDetectProj.pdb
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\obj\Debug\FlexDetectProj.csprojResolveAssemblyReference.cache
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\obj\Debug\MainWindow.baml
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\obj\Debug\MainWindow.g.cs
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\obj\Debug\App.g.cs
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\obj\Debug\FlexDetectProj_MarkupCompile.cache
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\obj\Debug\FlexDetectProj.g.resources
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\obj\Debug\FlexDetectProj.Properties.Resources.resources
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\obj\Debug\FlexDetectProj.csproj.GenerateResource.Cache
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\obj\Debug\FlexDetectProj.exe
+D:\csharp_ws\FlexDetectProj\FlexDetectProj\obj\Debug\FlexDetectProj.pdb

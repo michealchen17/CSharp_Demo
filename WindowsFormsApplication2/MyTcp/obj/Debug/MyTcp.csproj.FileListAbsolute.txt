@@ -1,0 +1,5 @@
+D:\csharp_ws\WindowsFormsApplication2\MyTcp\bin\Debug\MyTcp.dll
+D:\csharp_ws\WindowsFormsApplication2\MyTcp\bin\Debug\MyTcp.pdb
+D:\csharp_ws\WindowsFormsApplication2\MyTcp\obj\Debug\MyTcp.csprojResolveAssemblyReference.cache
+D:\csharp_ws\WindowsFormsApplication2\MyTcp\obj\Debug\MyTcp.dll
+D:\csharp_ws\WindowsFormsApplication2\MyTcp\obj\Debug\MyTcp.pdb

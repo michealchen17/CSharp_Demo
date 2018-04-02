@@ -1,0 +1,1 @@
+D:\csharp_ws\WindowsFormsApplication1\WindowsFormsApplication1\bin\x64\Release\WindowsFormsApplication1.exe.config
